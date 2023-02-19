@@ -2,7 +2,9 @@
 
 ## Description
 
-This agent detects liquidity pool transactions on Uniswap V3. This is intended as a relatively simple example of a Forta bot constructed using Python. Instructions on building a Forta bot can be found at https://docs.forta.network/en/latest/getting-started/ and https://chainstack.com/forta-for-realtime-monitoring-and-security-of-your-smart-contract/.
+This agent detects liquidity pool transactions on Uniswap V3.
+
+This is intended as a relatively simple example of a Forta bot constructed using Python. Instructions on building a Forta bot can be found at https://docs.forta.network/en/latest/getting-started/ and https://chainstack.com/forta-for-realtime-monitoring-and-security-of-your-smart-contract/.
 
 ## Supported Chains
 
